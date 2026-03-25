@@ -36,3 +36,34 @@ PRs welcome! Add a new cheatsheet or improve an existing one. Keep the format co
 ## License
 
 MIT
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FavioVazquez">
+        <img src="https://github.com/FavioVazquez.png" width="80px;" alt="Favio Vazquez"/><br />
+        <sub><b>Favio Vazquez</b></sub>
+      </a><br />
+      <sub>DS cheatsheets & education</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rstudio">
+        <img src="https://github.com/rstudio.png" width="80px;" alt="RStudio/Posit"/><br />
+        <sub><b>RStudio/Posit</b></sub>
+      </a><br />
+      <sub>Data science cheatsheets publisher</sub>
+    </td>
+  </tr>
+</table>
